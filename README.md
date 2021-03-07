@@ -2,6 +2,7 @@
 
 ------------------
 
-This project cotains the calls/methods to the backend according to some specific set of use cases, which further updates the data (tables).
+This project contains the calls/methods required to update the tables according to specific set of use cases.
+
 
 

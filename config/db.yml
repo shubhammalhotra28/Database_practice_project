@@ -1,0 +1,5 @@
+host: localhost
+database: swen344
+user: swen344
+password: Shubham@1413 # needs to be added within pgAdmin while creation
+port: 5432
